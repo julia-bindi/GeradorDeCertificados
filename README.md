@@ -1,6 +1,6 @@
 # GeradorDeCertificados
 
-### Prerequisites
+## Prerequisites
 
 Install dependencies:
 

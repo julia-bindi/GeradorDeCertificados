@@ -13,3 +13,7 @@ Install dependencies:
 2. Move yourself to the appropriate directory: `cd GeradorDeCertificados`<br />
 3. Make the script executable: `chmod +x prova.sh`
 4. Run it: `./prova.sh`
+
+---
+
+<p align="center">By <strong>Júlia Bind e Bruna Gomes</strong>

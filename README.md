@@ -16,4 +16,4 @@ Install dependencies:
 
 ---
 
-<p align="center">By <strong>Júlia Bind e Bruna Gomes</strong>
+<p align="center">By <strong>Júlia Bindi e Bruna Gomes</strong>

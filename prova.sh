@@ -23,7 +23,7 @@ for aluno in ${nome[@]}; do
 
 "$aluno"
 
-participou "${evento[$((tipo-1))]}" "$curso", no primeiro dia do IT Camp, evento promovido pela Commit Jr - Empresa Júnior de Engenharia de Computação, em parceria com o COMPET - Grupo PET de Engenharia de Computação, ambos projetos de extensão do CEFET-MG, no dia 06 de janeiro de 2021, com duração de "$duracao" hora(s)"
+participou "${evento[$((tipo-1))]}" "$curso", "${evento[$((tipo-1))]}" promovido pelo Centro Federal de Educação Tecnológica de Minas Gerais - CEFET-MG e ministrado pelo mestre em Ciência da Computação, Andrei Rimsa Álvares, no dia 11 de setembro de 2021, com duração de "$duracao" hora(s)"
     posicionamento="\n\n\n\n\n\n\n\n\n\n\n\n\n"
 
     comando='BEGIN{linhas=0
